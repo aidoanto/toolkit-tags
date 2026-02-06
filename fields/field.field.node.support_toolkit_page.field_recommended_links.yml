@@ -1,0 +1,28 @@
+uuid: f4929274-6b90-453d-ac7d-d4c2f3b051bb
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_recommended_links
+    - node.type.support_toolkit_page
+id: node.support_toolkit_page.field_recommended_links
+field_name: field_recommended_links
+entity_type: node
+bundle: support_toolkit_page
+label: 'Recommended Toolkit Page Links'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      support_toolkit_page: support_toolkit_page
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

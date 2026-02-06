@@ -1,0 +1,29 @@
+uuid: c5365f88-2418-4c78-875b-10672f9a7069
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_experiences
+    - taxonomy.vocabulary.experiences
+    - taxonomy.vocabulary.topics
+id: taxonomy_term.topics.field_experiences
+field_name: field_experiences
+entity_type: taxonomy_term
+bundle: topics
+label: Experiences
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      experiences: experiences
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

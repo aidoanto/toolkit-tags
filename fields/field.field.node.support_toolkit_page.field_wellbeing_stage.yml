@@ -1,0 +1,29 @@
+uuid: 62106bf4-e172-42bc-a93a-7ec6017ffe80
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_wellbeing_stage
+    - node.type.support_toolkit_page
+    - taxonomy.vocabulary.wellbeing_stage
+id: node.support_toolkit_page.field_wellbeing_stage
+field_name: field_wellbeing_stage
+entity_type: node
+bundle: support_toolkit_page
+label: 'Wellbeing Stage'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      wellbeing_stage: wellbeing_stage
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

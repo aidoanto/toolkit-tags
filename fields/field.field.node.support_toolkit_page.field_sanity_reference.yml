@@ -1,0 +1,19 @@
+uuid: 9adaeba7-d719-4ffe-b9dd-5eaf342f40ba
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_sanity_reference
+    - node.type.support_toolkit_page
+id: node.support_toolkit_page.field_sanity_reference
+field_name: field_sanity_reference
+entity_type: node
+bundle: support_toolkit_page
+label: 'Sanity Reference'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,29 @@
+uuid: 6dddbeb8-3654-4ac6-a249-fdee5ed190c9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_topics
+    - taxonomy.vocabulary.quiz_question_1
+    - taxonomy.vocabulary.topics
+id: taxonomy_term.quiz_question_1.field_topics
+field_name: field_topics
+entity_type: taxonomy_term
+bundle: quiz_question_1
+label: Topics
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      topics: topics
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

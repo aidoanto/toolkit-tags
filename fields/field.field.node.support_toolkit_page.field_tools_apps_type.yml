@@ -1,0 +1,29 @@
+uuid: 616ef072-df07-4d95-9e55-b9e97368d814
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_tools_apps_type
+    - node.type.support_toolkit_page
+    - taxonomy.vocabulary.tools_apps_type
+id: node.support_toolkit_page.field_tools_apps_type
+field_name: field_tools_apps_type
+entity_type: node
+bundle: support_toolkit_page
+label: 'Tools & Apps Type'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      tools_apps_type: tools_apps_type
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

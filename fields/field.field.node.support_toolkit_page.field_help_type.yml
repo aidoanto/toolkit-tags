@@ -1,0 +1,29 @@
+uuid: 7833a8aa-24be-4e02-8575-8a62222d68aa
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_help_type
+    - node.type.support_toolkit_page
+    - taxonomy.vocabulary.help_type
+id: node.support_toolkit_page.field_help_type
+field_name: field_help_type
+entity_type: node
+bundle: support_toolkit_page
+label: 'Help type'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      help_type: help_type
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

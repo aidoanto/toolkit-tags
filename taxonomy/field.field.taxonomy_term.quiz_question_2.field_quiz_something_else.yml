@@ -1,0 +1,29 @@
+uuid: d01ef46c-d2d0-4515-8ec9-cff7ac3f09c3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_quiz_something_else
+    - taxonomy.vocabulary.quiz_question_2
+    - taxonomy.vocabulary.quiz_something_else
+id: taxonomy_term.quiz_question_2.field_quiz_something_else
+field_name: field_quiz_something_else
+entity_type: taxonomy_term
+bundle: quiz_question_2
+label: 'Quiz Something Else'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      quiz_something_else: quiz_something_else
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

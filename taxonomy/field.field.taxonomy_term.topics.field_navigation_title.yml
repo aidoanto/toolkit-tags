@@ -1,0 +1,19 @@
+uuid: deeb280b-e4df-4ca4-a7e1-399322a25111
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_navigation_title
+    - taxonomy.vocabulary.topics
+id: taxonomy_term.topics.field_navigation_title
+field_name: field_navigation_title
+entity_type: taxonomy_term
+bundle: topics
+label: 'Navigation Title'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

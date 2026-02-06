@@ -1,0 +1,21 @@
+uuid: f797f7de-1d41-4322-bfa1-6ffaf11621a3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_quick_exit
+    - taxonomy.vocabulary.topics
+id: taxonomy_term.topics.field_quick_exit
+field_name: field_quick_exit
+entity_type: taxonomy_term
+bundle: topics
+label: 'Display Quick exit button'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

@@ -1,0 +1,21 @@
+uuid: a4d2ec5c-2ead-4d6b-9159-5f4ca6f4fa8f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_quick_exit
+    - node.type.support_toolkit_page
+id: node.support_toolkit_page.field_quick_exit
+field_name: field_quick_exit
+entity_type: node
+bundle: support_toolkit_page
+label: 'Display Quick exit button'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

@@ -1,0 +1,29 @@
+uuid: 4010b13c-6ff6-416b-bcdf-efc3afba4d35
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_quiz_priority
+    - taxonomy.vocabulary.quiz_priority
+    - taxonomy.vocabulary.quiz_question_2
+id: taxonomy_term.quiz_question_2.field_quiz_priority
+field_name: field_quiz_priority
+entity_type: taxonomy_term
+bundle: quiz_question_2
+label: 'Quiz Priority'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      quiz_priority: quiz_priority
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

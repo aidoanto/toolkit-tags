@@ -1,0 +1,29 @@
+uuid: 3ef73134-9131-4b3d-ab9e-f2ef460df3cc
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_quiz_question_1
+    - taxonomy.vocabulary.quiz_question_1
+    - taxonomy.vocabulary.topics
+id: taxonomy_term.topics.field_quiz_question_1
+field_name: field_quiz_question_1
+entity_type: taxonomy_term
+bundle: topics
+label: 'Quiz Question 1'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      quiz_question_1: quiz_question_1
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

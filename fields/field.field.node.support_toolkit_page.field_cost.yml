@@ -1,0 +1,29 @@
+uuid: cd61b659-0d5f-418d-85b3-95a865d9f5e2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_cost
+    - node.type.support_toolkit_page
+    - taxonomy.vocabulary.cost
+id: node.support_toolkit_page.field_cost
+field_name: field_cost
+entity_type: node
+bundle: support_toolkit_page
+label: Cost
+description: 'Used in "Tools & Apps" and "Support Service" types.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      cost: cost
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

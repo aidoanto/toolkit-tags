@@ -1,0 +1,29 @@
+uuid: 3e1925d4-ee74-46f3-81c8-98b99c7ca113
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_feelings
+    - taxonomy.vocabulary.feelings
+    - taxonomy.vocabulary.topics
+id: taxonomy_term.topics.field_feelings
+field_name: field_feelings
+entity_type: taxonomy_term
+bundle: topics
+label: Feelings
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      feelings: feelings
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

@@ -1,0 +1,29 @@
+uuid: 0ff94504-3836-4ea8-b6f5-b883a6dc7d36
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_authored_by
+    - taxonomy.vocabulary.topics
+id: taxonomy_term.topics.field_authored_by
+field_name: field_authored_by
+entity_type: taxonomy_term
+bundle: topics
+label: 'Authored by'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:user'
+  handler_settings:
+    target_bundles: null
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    filter:
+      type: _none
+    include_anonymous: true
+field_type: entity_reference

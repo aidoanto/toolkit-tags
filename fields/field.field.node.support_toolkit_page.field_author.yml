@@ -1,0 +1,19 @@
+uuid: b6c8c426-1e50-40d3-8ca8-cc9687c4ca86
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_author
+    - node.type.support_toolkit_page
+id: node.support_toolkit_page.field_author
+field_name: field_author
+entity_type: node
+bundle: support_toolkit_page
+label: Author
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

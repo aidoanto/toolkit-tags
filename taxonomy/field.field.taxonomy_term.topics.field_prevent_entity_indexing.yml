@@ -1,0 +1,21 @@
+uuid: 8931cc2e-f8ad-4b08-a64a-fe2268f58af8
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_prevent_entity_indexing
+    - taxonomy.vocabulary.topics
+  module:
+    - search_api_exclude_entity
+id: taxonomy_term.topics.field_prevent_entity_indexing
+field_name: field_prevent_entity_indexing
+entity_type: taxonomy_term
+bundle: topics
+label: 'Prevent this entity from being indexed'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: search_api_exclude_entity

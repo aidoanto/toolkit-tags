@@ -1,0 +1,19 @@
+uuid: 8df8db2a-866c-4753-9696-2d52f49f0085
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_sanity_reference
+    - taxonomy.vocabulary.media_type
+id: taxonomy_term.media_type.field_sanity_reference
+field_name: field_sanity_reference
+entity_type: taxonomy_term
+bundle: media_type
+label: 'Sanity Reference'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

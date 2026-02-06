@@ -1,0 +1,19 @@
+uuid: 4c1eaae4-7e9a-4c16-8f6f-684ec02cf3c4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_color_slug
+    - taxonomy.vocabulary.background_color
+id: taxonomy_term.background_color.field_color_slug
+field_name: field_color_slug
+entity_type: taxonomy_term
+bundle: background_color
+label: 'Color slug'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

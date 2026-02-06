@@ -1,0 +1,28 @@
+uuid: 9695af33-f636-471e-80b8-b223eb20de07
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_recommended_topics
+    - taxonomy.vocabulary.topics
+id: taxonomy_term.topics.field_recommended_topics
+field_name: field_recommended_topics
+entity_type: taxonomy_term
+bundle: topics
+label: 'Recommended Topics Page Links'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      topics: topics
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference
