@@ -1,0 +1,4835 @@
+[
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/nathidas-story",
+    "sanity_path": "articles/stories/nathidas-story",
+    "title": "Nathida's story",
+    "fields": {
+      "field_topics": [
+        "Depression",
+        "Suicide"
+      ],
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Watch"
+      ],
+      "field_feelings": [
+        "anxiety",
+        "depression",
+        "stigma",
+        "suicide",
+        "autism"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/frances-story",
+    "sanity_path": "articles/stories/frances-story",
+    "title": "Frances' story",
+    "fields": {
+      "field_topics": [
+        "Trauma",
+        "Substance Misuse",
+        "Suicide",
+        "Stress"
+      ],
+      "field_media_type": [
+        "Listen"
+      ],
+      "field_support_toolkit_type": [
+        "Real Story"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/dominics-story",
+    "sanity_path": "articles/stories/dominics-story",
+    "title": "Dominic's story",
+    "fields": {
+      "field_topics": [
+        "Loneliness",
+        "Depression",
+        "Suicide",
+        "Anxiety"
+      ],
+      "field_media_type": [
+        "Watch"
+      ],
+      "field_feelings": [
+        "anxiety",
+        "depression",
+        "suicide",
+        "abuse"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/jais-story",
+    "sanity_path": "articles/stories/jais-story",
+    "title": "Jai's story",
+    "fields": {
+      "field_topics": [
+        "Self-harm",
+        "Loneliness",
+        "Trauma",
+        "Depression",
+        "Suicide",
+        "Anxiety"
+      ],
+      "field_media_type": [
+        "Watch",
+        "Listen"
+      ],
+      "field_feelings": [
+        "Anxiety",
+        "Depression",
+        "Loneliness",
+        "Self-harm",
+        "Suicide",
+        "Trauma"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/jmos-story",
+    "sanity_path": "articles/stories/jmos-story",
+    "title": "JMo's story",
+    "fields": {
+      "field_topics": [
+        "Depression",
+        "Trauma",
+        "Grief & loss",
+        "Suicide"
+      ],
+      "field_media_type": [
+        "Listen"
+      ],
+      "field_support_toolkit_type": [
+        "Real Story"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/annass-story",
+    "sanity_path": "articles/stories/annass-story",
+    "title": "Annas's story",
+    "fields": {
+      "field_topics": [
+        "Loneliness",
+        "Depression",
+        "Anxiety"
+      ],
+      "field_media_type": [
+        "Watch",
+        "Listen"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/michaels-story",
+    "sanity_path": "articles/stories/michaels-story",
+    "title": "Michael's story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Depression",
+        "Trauma",
+        "Suicide"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/hughs-story",
+    "sanity_path": "articles/stories/hughs-story",
+    "title": "Hugh's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_media_type": [
+        "Read",
+        "Listen"
+      ],
+      "field_topics": [
+        "Eating and body image"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/jennys-story",
+    "sanity_path": "articles/stories/jennys-story",
+    "title": "Jenny's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_media_type": [
+        "Read",
+        "Listen"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_topics": [
+        "Eating and body image"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/sarahs-story",
+    "sanity_path": "articles/stories/sarahs-story",
+    "title": "Sarah's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_media_type": [
+        "Read",
+        "Listen"
+      ],
+      "field_topics": [
+        "Eating and body image"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/sabeenas-story",
+    "sanity_path": "articles/stories/sabeenas-story",
+    "title": "Sabeena's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_media_type": [
+        "Read",
+        "Listen"
+      ],
+      "field_topics": [
+        "Eating and body image",
+        "Trauma"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/alishas-story",
+    "sanity_path": "articles/stories/alishas-story",
+    "title": "Alisha's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_audience": [
+        "For Others"
+      ],
+      "field_topics": [
+        "Eating and body image",
+        "Relationships"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/brendans-story",
+    "sanity_path": "articles/stories/brendans-story",
+    "title": "Brendan's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Depression",
+        "Loneliness"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/rohans-story",
+    "sanity_path": "articles/stories/a-dads-story",
+    "title": "Rohan's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Eating and body image",
+        "Relationships"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_audience": [
+        "For Others"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/graemes-story",
+    "sanity_path": "articles/stories/graemes-story",
+    "title": "Graeme's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_topics": [
+        "Suicide",
+        "Depression",
+        "Relationships"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/camerons-story",
+    "sanity_path": "articles/stories/camerons-story",
+    "title": "Cameron's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_topics": [
+        "Domestic and family violence",
+        "Suicide",
+        "Trauma"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/katherine-and-jenifers-stories",
+    "sanity_path": "articles/stories/katherine-and-jenifers-stories",
+    "title": "Katherine and Jenifer's Stories",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_media_type": [
+        "Read",
+        "Listen"
+      ],
+      "field_topics": [
+        "Grief & loss",
+        "Natural disasters"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/lilly-and-lees-stories",
+    "sanity_path": "articles/stories/lilly-and-lees-stories",
+    "title": "Lilly and Lee's Stories",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_media_type": [
+        "Read",
+        "Listen"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_topics": [
+        "Grief & loss",
+        "Trauma",
+        "Natural disasters"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/lindas-story",
+    "sanity_path": "articles/stories/lindas-story",
+    "title": "Linda's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_media_type": [
+        "Read",
+        "Listen"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_topics": [
+        "Grief & loss",
+        "Natural disasters",
+        "Trauma"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/nicoles-story",
+    "sanity_path": "articles/stories/nicoles-story",
+    "title": "Nicole's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_topics": [
+        "Trauma"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/davinas-story",
+    "sanity_path": "articles/stories/davinas-story",
+    "title": "Davina's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Trauma",
+        "Suicide"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/maddies-story",
+    "sanity_path": "articles/stories/maddies-story",
+    "title": "Maddie's Story",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Stress"
+      ],
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read",
+        "Watch"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/monwells-story",
+    "sanity_path": "articles/stories/monwells-story",
+    "title": "Monwell's Story ",
+    "fields": {
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_topics": [
+        "Trauma",
+        "Self-harm",
+        "Domestic and family violence",
+        "Substance Misuse",
+        "Problem gambling",
+        "Suicide",
+        "Self-harm"
+      ],
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/amandas-story",
+    "sanity_path": "articles/stories/amandas-story",
+    "title": "Amanda's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read",
+        "Watch"
+      ],
+      "field_topics": [
+        "Depression",
+        "Stress"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/imbi-and-dannys-stories",
+    "sanity_path": "articles/stories/imbi-and-dannys-stories",
+    "title": "Imbi and Danny's Stories",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_topics": [
+        "Trauma",
+        "Suicide"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/andrews-story",
+    "sanity_path": "articles/stories/andrews-story",
+    "title": "Andrew's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read",
+        "Watch"
+      ],
+      "field_topics": [
+        "Trauma",
+        "Substance Misuse",
+        "Suicide"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/saids-story",
+    "sanity_path": "articles/stories/saids-story",
+    "title": "Said's Story",
+    "fields": {
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read",
+        "Watch"
+      ],
+      "field_topics": [
+        "Trauma",
+        "Substance Misuse",
+        "Psychosis",
+        "Suicide",
+        "Loneliness"
+      ],
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/ians-story",
+    "sanity_path": "articles/stories/ians-story",
+    "title": "Ian's Story",
+    "fields": {
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Trauma",
+        "Domestic and family violence",
+        "Suicide"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read",
+        "Watch"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/anwyns-story",
+    "sanity_path": "articles/stories/anwyns-story",
+    "title": "Anwyn's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Trauma",
+        "Loneliness",
+        "Suicide"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/toms-story",
+    "sanity_path": "articles/stories/toms-story",
+    "title": "Tom's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Stress",
+        "Depression",
+        "Suicide"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read",
+        "Watch"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/matts-story",
+    "sanity_path": "articles/stories/matts-story",
+    "title": "Matt's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Depression",
+        "Anxiety",
+        "Suicide"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read",
+        "Watch"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/lizzies-story",
+    "sanity_path": "articles/stories/lizzies-story",
+    "title": "Lizzie's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Trauma",
+        "Substance Misuse",
+        "Depression",
+        "Suicide"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read",
+        "Watch"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/kates-story",
+    "sanity_path": "articles/stories/kates-story",
+    "title": "Kate's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Problem gambling",
+        "Financial stress"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/jazs-story",
+    "sanity_path": "articles/stories/jazs-story",
+    "title": "Jaz's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Suicide",
+        "Depression",
+        "Substance Misuse"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/chriss-story",
+    "sanity_path": "articles/stories/chriss-story",
+    "title": "Chris's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Trauma",
+        "Suicide",
+        "Depression",
+        "Anxiety",
+        "Loneliness"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/mals-story",
+    "sanity_path": "articles/stories/mals-story",
+    "title": "Mal's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Depression",
+        "Anxiety",
+        "Stress",
+        "Suicide"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/tanyas-story",
+    "sanity_path": "articles/stories/tanyas-story",
+    "title": "Tanya's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Depression",
+        "Loneliness"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/joes-story",
+    "sanity_path": "articles/stories/joes-story",
+    "title": "Joe's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Depression",
+        "Substance Misuse"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/gracies-story",
+    "sanity_path": "articles/stories/gracies-story",
+    "title": "Gracie's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_topics": [
+        "Self-harm",
+        "Psychosis",
+        "Depression"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/olivers-story",
+    "sanity_path": "articles/stories/olivers-story",
+    "title": "Oliver's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Depression",
+        "Loneliness"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/wess-story",
+    "sanity_path": "articles/stories/wess-story",
+    "title": "Wes's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Depression",
+        "Grief & loss",
+        "Suicide"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/anthonys-story",
+    "sanity_path": "articles/stories/anthony-story",
+    "title": "Anthony's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Depression",
+        "Stress",
+        "Loneliness"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/hear-from-others/real-stories/lachies-story",
+    "sanity_path": "articles/stories/lachies-story",
+    "title": "Lachie's Story",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Real Story"
+      ],
+      "field_topics": [
+        "Depression",
+        "Substance Misuse",
+        "Anxiety",
+        "Suicide"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_media_type": [
+        "Listen",
+        "Read"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/getting-active-for-your-wellbeing-a-practical-guide",
+    "sanity_path": "articles/techniques/getting-active-for-your-wellbeing",
+    "title": "Getting active for your wellbeing: a practical guide",
+    "fields": {
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Stress",
+        "Depression"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_cost": [
+        "Low cost"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/how-to-make-a-trigger-management-plan",
+    "sanity_path": "articles/techniques/how-to-make-a-trigger-management-plan",
+    "title": "How to make a trigger management plan",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Panic attacks",
+        "Grief & loss"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/progressive-muscle-relaxation-stress-and-anxiety",
+    "sanity_path": "articles/techniques/progressive-muscle-relaxation-a-simple-technique-for-stress-and-anxiety-relief",
+    "title": "Progressive muscle relaxation: A simple technique for stress and anxiety relief",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_topics": [
+        "Stress",
+        "Anxiety",
+        "Panic attacks"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health",
+    "sanity_path": "articles/techniques/sleep-and-mental-health",
+    "title": "Sleep and mental health",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Stress",
+        "Psychosis",
+        "Trauma",
+        "Panic attacks",
+        "Grief & loss"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/finding-relief-through-grounding-techniques",
+    "sanity_path": "articles/techniques/finding-relief-through-grounding-techniques",
+    "title": "Finding relief through grounding techniques",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Stress",
+        "Grief & loss",
+        "Panic attacks",
+        "Trauma",
+        "Self-harm"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_quiz_priority": [
+        "Priority 2"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/self-esteem-and-mental-health",
+    "sanity_path": "articles/techniques/self-esteem-and-mental-health",
+    "title": "Self-esteem and mental health",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Loneliness",
+        "Domestic and family violence",
+        "Stress",
+        "Trauma",
+        "Self-harm",
+        "Relationships",
+        "Financial stress"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_priority": [
+        "Priority 2"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/self-care-for-mental-health-and-wellbeing",
+    "sanity_path": "articles/techniques/self-care-for-mental-health-and-wellbeing",
+    "title": "Self-care for mental health and wellbeing",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Stress",
+        "Financial stress",
+        "Trauma",
+        "Natural disasters",
+        "Grief & loss",
+        "Loneliness",
+        "Self-harm",
+        "Substance Misuse"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/eye-movement-desensitization-and-reprocessing-edmr",
+    "sanity_path": "articles/techniques/emdr",
+    "title": "Eye movement desensitisation and reprocessing (EMDR)",
+    "fields": {
+      "field_topics": [
+        "Trauma"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_access_options": [
+        "Counselling"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/creating-a-self-care-box",
+    "sanity_path": "articles/techniques/creating-a-self-care-box",
+    "title": "Creating a self-care box",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Loneliness",
+        "Suicide",
+        "Self-harm",
+        "Stress"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/acceptance-and-commitment-therapy-act",
+    "sanity_path": "articles/techniques/acceptance-and-commitment-therapy-act",
+    "title": "Acceptance and commitment therapy (ACT)",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/managing-intrusive-thoughts",
+    "sanity_path": "articles/techniques/managing-intrusive-thoughts",
+    "title": "Managing intrusive thoughts",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Stress",
+        "Trauma"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/how-to-do-a-digital-detox",
+    "sanity_path": "articles/techniques/how-to-do-a-digital-detox",
+    "title": "How to do a digital detox",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Stress"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/a-cbt-based-thought-challenging-activity",
+    "sanity_path": "articles/techniques/a-cbt-based-thought-challenging-activity",
+    "title": "A CBT-based thought challenging activity",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/journaling-your-thoughts-and-feelings",
+    "sanity_path": "articles/techniques/journaling-your-thoughts-and-feelings",
+    "title": "Journaling your thoughts & feelings",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Loneliness",
+        "Self-harm",
+        "Suicide",
+        "Trauma",
+        "Grief & loss",
+        "Substance Misuse",
+        "Stress"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/getting-started-with-mindfulness",
+    "sanity_path": "articles/techniques/getting-started-with-mindfulness",
+    "title": "Getting started with mindfulness",
+    "fields": {
+      "field_topics": [
+        "Depression",
+        "Anxiety",
+        "Substance Misuse",
+        "Trauma",
+        "Financial stress",
+        "Stress"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/building-social-connections",
+    "sanity_path": "articles/techniques/building-social-connections",
+    "title": "Building social connections",
+    "fields": {
+      "field_topics": [
+        "Loneliness",
+        "Anxiety",
+        "Depression"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/an-introduction-to-meditation",
+    "sanity_path": "articles/techniques/an-introduction-to-meditation",
+    "title": "An introduction to meditation",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Substance Misuse",
+        "Trauma",
+        "Stress",
+        "Suicide",
+        "Self-harm",
+        "Financial stress"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Long term help",
+        "Help right now"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/cognitive-behavioural-therapy-cbt",
+    "sanity_path": "articles/techniques/cognitive-behavioural-therapy",
+    "title": "Cognitive behavioural therapy (CBT)",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Suicide",
+        "Self-harm",
+        "Substance Misuse",
+        "Trauma"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_quiz_priority": [
+        "Priority 1",
+        "Priority 2"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/talk-to-someone-you-trust",
+    "sanity_path": "articles/techniques/talk-to-someone-you-trust",
+    "title": "Talk to someone you trust",
+    "fields": {
+      "field_topics": [
+        "Depression",
+        "Anxiety",
+        "Substance Misuse",
+        "Trauma",
+        "Suicide",
+        "Self-harm",
+        "Stress",
+        "Financial stress",
+        "Grief & loss"
+      ],
+      "field_support_toolkit_type": [
+        "Techniques & Guides"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ],
+      "field_timeframe": [
+        "Long term help",
+        "Help right now"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/13yarn-strong-minds-strong-mob-podcast",
+    "sanity_path": "articles/resources/13yarn-strong-minds-strong-mob-podcast",
+    "title": "13YARN Strong Minds, Strong Mob Podcast",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_topics": [
+        "Stress",
+        "Depression",
+        "Anxiety"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/pave",
+    "sanity_path": "articles/resources/pave",
+    "title": "Pave",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_topics": [
+        "Substance Misuse"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_tools_apps_type": [
+        "App"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/body-pride-resource-hub",
+    "sanity_path": "articles/resources/body-pride-resource-hub",
+    "title": "Body Pride Resource Hub",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_topics": [
+        "Eating and body image"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/recovery-record-ed-management",
+    "sanity_path": "articles/resources/recovery-record-ed-management",
+    "title": "Recovery Record ED Management",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ],
+      "field_cost": [
+        "Free"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/carer-skills-online-program",
+    "sanity_path": "articles/resources/carer-skills-online-program",
+    "title": "Carer Skills Online Program",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "Online Program"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/insideout-digital-therapies",
+    "sanity_path": "articles/resources/insideout-digital-therapies",
+    "title": "InsideOut Digital Therapies",
+    "fields": {
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_tools_apps_type": [
+        "Online Program"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/alcohol-drug-counselling-online-community-forums",
+    "sanity_path": "articles/resources/alcohol-drug-counselling-online-community-forums",
+    "title": "Alcohol & Drug Counselling Online Community Forums",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_access_options": [
+        "Forum"
+      ],
+      "field_topics": [
+        "Substance Misuse"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/brave-program",
+    "sanity_path": "articles/resources/the-brave-program",
+    "title": "The Brave Program",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "Online Program"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_topics": [
+        "Anxiety"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/family-drug-support-online",
+    "sanity_path": "articles/resources/family-drug-support-online",
+    "title": "Family Drug Support Online",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "Online Program"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_topics": [
+        "Substance Misuse"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/smart-recovery-app",
+    "sanity_path": "articles/resources/smart-recovery-app",
+    "title": "SMART Recovery App",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_tools_apps_type": [
+        "App"
+      ],
+      "field_topics": [
+        "Substance Misuse",
+        "Problem gambling"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/lifeline-forums",
+    "sanity_path": "articles/resources/lifeline-forums",
+    "title": "Lifeline Forums",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_access_options": [
+        "Forum"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Stress",
+        "Trauma",
+        "Loneliness",
+        "Substance Misuse",
+        "Self-harm",
+        "Suicide",
+        "Grief & loss",
+        "Psychosis"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/griefline-online-forums",
+    "sanity_path": "articles/resources/griefline-online-forums",
+    "title": "Griefline Online Forums",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_topics": [
+        "Grief & loss",
+        "Loneliness",
+        "Relationships",
+        "Trauma"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/rain-rain-sleep-sounds",
+    "sanity_path": "articles/resources/rain-rain-sleep-sounds",
+    "title": "Rain Rain® Sleep Sounds",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "App"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Trauma",
+        "Panic attacks",
+        "Stress"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/wellbeing-course",
+    "sanity_path": "articles/resources/the-wellbeing-course",
+    "title": "The Wellbeing Course",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Stress"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/insomnia-program",
+    "sanity_path": "articles/resources/insomnia-program",
+    "title": "Insomnia Program",
+    "fields": {
+      "field_topics": [
+        "Stress",
+        "Anxiety",
+        "Depression",
+        "Psychosis",
+        "Trauma",
+        "Grief & loss"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/better-man",
+    "sanity_path": "articles/resources/better-man",
+    "title": "Better Man",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_topics": [
+        "Domestic and family violence",
+        "Relationships"
+      ],
+      "field_timeframe": [
+        "Long term help",
+        "Help right now"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/get-prepared",
+    "sanity_path": "articles/resources/get-prepared",
+    "title": "Get Prepared ",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_topics": [
+        "Natural disasters",
+        "Stress",
+        "Anxiety",
+        "Trauma"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_tools_apps_type": [
+        "App"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/ocd-program",
+    "sanity_path": "articles/resources/ocd-program",
+    "title": "OCD Program",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Stress",
+        "Panic attacks"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Long term help",
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/managing-panic-program",
+    "sanity_path": "articles/resources/managing-panic-program",
+    "title": "Managing Panic Program ",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Panic attacks"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/social-anxiety-program",
+    "sanity_path": "articles/resources/social-anxiety-program",
+    "title": "Social Anxiety Program",
+    "fields": {
+      "field_topics": [
+        "Anxiety"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/depression-anxiety-program",
+    "sanity_path": "articles/resources/depression-anxiety-program",
+    "title": "Depression & Anxiety Program",
+    "fields": {
+      "field_topics": [
+        "Depression",
+        "Anxiety"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/ptsd-program",
+    "sanity_path": "articles/resources/ptsd-program",
+    "title": "PTSD Program",
+    "fields": {
+      "field_topics": [
+        "Trauma",
+        "Natural disasters",
+        "Domestic and family violence"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/anxiety-worry-program",
+    "sanity_path": "articles/resources/anxiety-worry-program",
+    "title": "Anxiety & Worry Program",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Stress",
+        "Financial stress"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_timeframe": [
+        "Long term help",
+        "Help right now"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/depression-program",
+    "sanity_path": "articles/resources/depression-program",
+    "title": "Depression Program",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_topics": [
+        "Depression"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/mycompass",
+    "sanity_path": "articles/resources/mycompass",
+    "title": "myCompass",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_cost": [
+        "Free"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/black-dog-institutes-online-clinic",
+    "sanity_path": "articles/resources/black-dog-institutes-online-clinic",
+    "title": "Black Dog Institute's Online Clinic",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Trauma",
+        "Substance Misuse",
+        "Psychosis"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/body-keeps-score",
+    "sanity_path": "articles/resources/the-body-keeps-the-score",
+    "title": "The Body Keeps the Score",
+    "fields": {
+      "field_topics": [
+        "Trauma"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "Book"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/calm-harm",
+    "sanity_path": "articles/resources/calm-harm",
+    "title": "Calm Harm",
+    "fields": {
+      "field_topics": [
+        "Self-harm"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Long term help",
+        "Help right now"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ],
+      "field_tools_apps_type": [
+        "App"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_cost": [
+        "Low cost"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/calm",
+    "sanity_path": "articles/resources/calm",
+    "title": "Calm",
+    "fields": {
+      "field_topics": [
+        "Financial stress",
+        "Anxiety",
+        "Stress"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "App"
+      ],
+      "field_timeframe": [
+        "Long term help",
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/daybreak",
+    "sanity_path": "articles/resources/daybreak",
+    "title": "Daybreak",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_topics": [
+        "Substance Misuse"
+      ],
+      "field_tools_apps_type": [
+        "App"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_cost": [
+        "Free"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/ourherd",
+    "sanity_path": "articles/resources/our-herd",
+    "title": "OurHerd",
+    "fields": {
+      "field_topics": [
+        "Loneliness",
+        "Anxiety",
+        "Depression",
+        "Stress",
+        "Trauma",
+        "Suicide",
+        "Self-harm",
+        "Substance Misuse",
+        "Grief & loss",
+        "Psychosis"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_tools_apps_type": [
+        "App"
+      ],
+      "field_timeframe": [
+        "Long term help",
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_priority": [
+        "Priority 2"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/meetup",
+    "sanity_path": "articles/resources/meetup",
+    "title": "Meetup",
+    "fields": {
+      "field_topics": [
+        "Loneliness"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Long term help",
+        "Help right now"
+      ],
+      "field_tools_apps_type": [
+        "App",
+        "Website"
+      ],
+      "field_cost": [
+        "Free"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/way",
+    "sanity_path": "articles/resources/this-way-up",
+    "title": "This Way Up",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Trauma",
+        "Financial stress",
+        "Stress",
+        "Panic attacks"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/i-am-sober",
+    "sanity_path": "articles/resources/i-am-sober",
+    "title": "I Am Sober",
+    "fields": {
+      "field_topics": [
+        "Substance Misuse"
+      ],
+      "field_tools_apps_type": [
+        "App"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ],
+      "field_cost": [
+        "Free"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/beyond-now-safety-planning",
+    "sanity_path": "articles/resources/beyond-now-safety-planning",
+    "title": "Beyond Now Safety Planning",
+    "fields": {
+      "field_tools_apps_type": [
+        "App"
+      ],
+      "field_topics": [
+        "Depression",
+        "Anxiety",
+        "Suicide"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_quiz_priority": [
+        "Priority 3"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/smiling-mind",
+    "sanity_path": "articles/resources/smiling-mind",
+    "title": "Smiling Mind",
+    "fields": {
+      "field_tools_apps_type": [
+        "App",
+        "Website"
+      ],
+      "field_topics": [
+        "Depression",
+        "Anxiety"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Long term help",
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/moodmission",
+    "sanity_path": "articles/resources/moodmission",
+    "title": "MoodMission",
+    "fields": {
+      "field_tools_apps_type": [
+        "App"
+      ],
+      "field_topics": [
+        "Depression",
+        "Anxiety",
+        "Financial stress",
+        "Stress"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Long term help",
+        "Help right now"
+      ],
+      "field_cost": [
+        "Low cost"
+      ],
+      "field_quiz_priority": [
+        "Priority 2"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/e-couch",
+    "sanity_path": "articles/resources/ecouch",
+    "title": "e-couch",
+    "fields": {
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Grief & loss",
+        "Relationships"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_cost": [
+        "Free"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/tools-and-apps/moodgym",
+    "sanity_path": "articles/resources/moodgym",
+    "title": "MoodGym",
+    "fields": {
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_topics": [
+        "Depression",
+        "Anxiety"
+      ],
+      "field_support_toolkit_type": [
+        "Tools & Apps"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/thirrili",
+    "sanity_path": "articles/support/thirrili",
+    "title": "Thirrili",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_topics": [
+        "Suicide",
+        "Trauma"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "NSW",
+        "ACT",
+        "VIC",
+        "TAS",
+        "SA",
+        "WA",
+        "NT",
+        "QLD"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_access_options": [
+        "Phone"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/tiacs",
+    "sanity_path": "articles/support/tiacs",
+    "title": "TIACS",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_access_options": [
+        "Phone",
+        "Text",
+        "Counselling"
+      ],
+      "field_state": [
+        "National",
+        "NSW",
+        "SA",
+        "TAS",
+        "NT",
+        "ACT",
+        "VIC",
+        "QLD",
+        "WA"
+      ],
+      "field_topics": [
+        "Depression",
+        "Stress",
+        "Anxiety",
+        "Relationships"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/open-arms",
+    "sanity_path": "articles/support/open-arms",
+    "title": "Open Arms",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "ACT",
+        "NT",
+        "NSW",
+        "WA",
+        "SA",
+        "TAS",
+        "QLD",
+        "VIC"
+      ],
+      "field_access_options": [
+        "Counselling",
+        "Phone",
+        "Online Chat",
+        "In Person",
+        "Crisis"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Relationships",
+        "Suicide",
+        "Trauma",
+        "Grief & loss",
+        "Stress",
+        "Substance Misuse"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/eating-disorders-families-australia-edfa",
+    "sanity_path": "articles/support/eating-disorders-families-australia-edfa",
+    "title": "Eating Disorders Families Australia (EDFA)",
+    "fields": {
+      "field_topics": [
+        "Eating and body image"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_audience": [
+        "For Others"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "ACT",
+        "NT",
+        "NSW",
+        "WA",
+        "VIC",
+        "QLD",
+        "SA",
+        "TAS"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/butterfly",
+    "sanity_path": "articles/support/butterfly",
+    "title": "Butterfly",
+    "fields": {
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_state": [
+        "National",
+        "ACT",
+        "NT",
+        "TAS",
+        "SA",
+        "WA",
+        "QLD",
+        "NSW",
+        "VIC"
+      ],
+      "field_cost": [
+        "Free"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/gambling-help-online",
+    "sanity_path": "articles/support/gambling-help-online",
+    "title": "Gambling Help Online",
+    "fields": {
+      "field_topics": [
+        "Problem gambling"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_state": [
+        "National",
+        "NSW",
+        "ACT",
+        "WA",
+        "QLD",
+        "TAS",
+        "VIC",
+        "SA",
+        "NT"
+      ],
+      "field_access_options": [
+        "Phone",
+        "Forum",
+        "Online Chat"
+      ],
+      "field_cost": [
+        "Free"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/roses-ocean",
+    "sanity_path": "articles/support/roses-in-the-ocean",
+    "title": "Roses in the Ocean",
+    "fields": {
+      "field_topics": [
+        "Suicide",
+        "Grief & loss"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_state": [
+        "National",
+        "NSW",
+        "ACT",
+        "VIC",
+        "WA",
+        "QLD",
+        "TAS",
+        "NT",
+        "SA"
+      ],
+      "field_access_options": [
+        "Phone"
+      ],
+      "field_cost": [
+        "Free"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/qlife",
+    "sanity_path": "articles/support/qlife",
+    "title": "QLife",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_access_options": [
+        "Phone",
+        "Online Chat"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "ACT",
+        "NSW",
+        "WA",
+        "TAS",
+        "NT",
+        "QLD",
+        "VIC",
+        "SA"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/panda",
+    "sanity_path": "articles/support/panda",
+    "title": "PANDA",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_access_options": [
+        "Phone",
+        "Online Chat",
+        "Counselling",
+        "Peer Support"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Psychosis",
+        "Suicide",
+        "Loneliness"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "QLD",
+        "NSW",
+        "WA",
+        "SA",
+        "TAS",
+        "NT",
+        "ACT"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/dont-become-man",
+    "sanity_path": "articles/support/dont-become-that-man",
+    "title": "Don't Become That Man",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_topics": [
+        "Domestic and family violence",
+        "Relationships"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_access_options": [
+        "Phone"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "NSW",
+        "NT",
+        "ACT",
+        "WA",
+        "SA",
+        "QLD",
+        "TAS",
+        "VIC",
+        "National"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/tresillian",
+    "sanity_path": "articles/support/tresillian",
+    "title": "Tresillian",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Stress"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_state": [
+        "ACT",
+        "NSW",
+        "VIC"
+      ],
+      "field_access_options": [
+        "Online Chat",
+        "Phone",
+        "In Person"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/gidget-foundation",
+    "sanity_path": "articles/support/gidget-foundation",
+    "title": "Gidget Foundation",
+    "fields": {
+      "field_access_options": [
+        "Peer Support",
+        "Phone",
+        "In Person",
+        "Online Chat",
+        "Counselling"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Grief & loss"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "NSW",
+        "NT",
+        "QLD",
+        "ACT",
+        "VIC",
+        "WA",
+        "SA",
+        "TAS"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/mindspot",
+    "sanity_path": "articles/support/mindspot",
+    "title": "MindSpot",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Phone",
+        "Online Chat",
+        "Counselling"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Stress"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_state": [
+        "National",
+        "NSW",
+        "SA",
+        "NT",
+        "ACT",
+        "QLD",
+        "WA",
+        "TAS",
+        "VIC"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/relationships-australia",
+    "sanity_path": "articles/support/relationships-australia",
+    "title": "Relationships Australia",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Phone",
+        "Online Chat",
+        "In Person",
+        "Counselling"
+      ],
+      "field_state": [
+        "National",
+        "NSW",
+        "ACT",
+        "NT",
+        "WA",
+        "VIC",
+        "QLD",
+        "TAS"
+      ],
+      "field_topics": [
+        "Relationships",
+        "Domestic and family violence"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/nsw-mental-health-line",
+    "sanity_path": "articles/support/nsw-mental-health-line",
+    "title": "NSW Mental Health Line",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Stress"
+      ],
+      "field_access_options": [
+        "Phone"
+      ],
+      "field_state": [
+        "NSW"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/full-stop-australia",
+    "sanity_path": "articles/support/full-stop-australia",
+    "title": "Full Stop Australia",
+    "fields": {
+      "field_topics": [
+        "Domestic and family violence",
+        "Relationships"
+      ],
+      "field_state": [
+        "NSW",
+        "ACT",
+        "WA",
+        "National",
+        "VIC",
+        "NT",
+        "SA",
+        "QLD",
+        "TAS"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_timeframe": [
+        "Long term help",
+        "Help right now"
+      ],
+      "field_access_options": [
+        "Online Chat"
+      ],
+      "field_cost": [
+        "Free"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/standby",
+    "sanity_path": "articles/support/standby-support-after-suicide",
+    "title": "StandBy",
+    "fields": {
+      "field_topics": [
+        "Suicide",
+        "Grief & loss",
+        "Trauma"
+      ],
+      "field_access_options": [
+        "In Person",
+        "Phone",
+        "Online Chat",
+        "Text",
+        "In Person"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "TAS",
+        "WA",
+        "QLD",
+        "NT",
+        "ACT",
+        "SA",
+        "NSW"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/mens-referral-service",
+    "sanity_path": "articles/support/mens-referral-service",
+    "title": "Men’s Referral Service",
+    "fields": {
+      "field_topics": [
+        "Relationships",
+        "Domestic and family violence"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_access_options": [
+        "Phone",
+        "Counselling",
+        "Phone",
+        "Online Chat"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "NSW",
+        "VIC",
+        "ACT",
+        "QLD",
+        "WA",
+        "NT",
+        "SA",
+        "TAS"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/1800respect",
+    "sanity_path": "articles/support/1800respect",
+    "title": "1800RESPECT",
+    "fields": {
+      "field_topics": [
+        "Domestic and family violence",
+        "Relationships"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_access_options": [
+        "Counselling",
+        "Online Chat",
+        "Phone",
+        "Text"
+      ],
+      "field_state": [
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "National",
+        "ACT"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/headspace",
+    "sanity_path": "articles/support/headspace",
+    "title": "headspace",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Trauma",
+        "Substance Misuse",
+        "Psychosis",
+        "Self-harm"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_access_options": [
+        "Counselling",
+        "Peer Support",
+        "Phone",
+        "Online Chat"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "VIC",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT",
+        "National",
+        "WA"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/sanes-guided-recovery",
+    "sanity_path": "articles/support/sanes-guided-service",
+    "title": "SANE's Guided Recovery",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Counselling",
+        "Peer Support"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_topics": [
+        "Trauma",
+        "Anxiety",
+        "Psychosis"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/sane",
+    "sanity_path": "articles/support/sane",
+    "title": "SANE",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_topics": [
+        "Trauma",
+        "Anxiety",
+        "Psychosis"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_access_options": [
+        "Online Chat",
+        "Phone",
+        "Forum",
+        "Peer Support",
+        "Counselling"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/13yarn",
+    "sanity_path": "articles/support/13yarn",
+    "title": "13YARN",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Trauma",
+        "Financial stress",
+        "Substance Misuse",
+        "Loneliness"
+      ],
+      "field_state": [
+        "NT",
+        "NSW",
+        "WA",
+        "TAS",
+        "VIC",
+        "QLD",
+        "ACT",
+        "SA",
+        "National"
+      ],
+      "field_access_options": [
+        "Phone"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/reachout",
+    "sanity_path": "articles/support/reachout",
+    "title": "ReachOut",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Suicide",
+        "Self-harm",
+        "Substance Misuse",
+        "Loneliness",
+        "Relationships",
+        "Trauma",
+        "Domestic and family violence",
+        "Grief & loss"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_access_options": [
+        "Peer Support",
+        "Online Chat",
+        "Forum",
+        "Text"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/peer-care-companion-warmline",
+    "sanity_path": "articles/support/peer-care-companion-warmline",
+    "title": "Peer CARE Companion Warmline",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_topics": [
+        "Suicide"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_access_options": [
+        "Phone"
+      ],
+      "field_state": [
+        "National",
+        "NSW",
+        "QLD",
+        "ACT",
+        "SA",
+        "TAS",
+        "NT",
+        "WA",
+        "VIC"
+      ],
+      "field_cost": [
+        "Free"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/betstop",
+    "sanity_path": "articles/support/betstop",
+    "title": "BetStop",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_topics": [
+        "Problem gambling"
+      ],
+      "field_access_options": [
+        "Online Chat"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "NSW",
+        "ACT",
+        "VIC",
+        "NT",
+        "WA",
+        "TAS",
+        "QLD",
+        "SA"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/griefline",
+    "sanity_path": "articles/support/griefline",
+    "title": "Griefline",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Phone",
+        "Forum",
+        "Online Chat"
+      ],
+      "field_topics": [
+        "Grief & loss",
+        "Depression"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "NT",
+        "ACT",
+        "NSW",
+        "QLD",
+        "SA",
+        "TAS",
+        "WA",
+        "VIC"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/suicide-call-back-service",
+    "sanity_path": "articles/support/suicide-call-back-service",
+    "title": "Suicide Call Back Service",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_topics": [
+        "Suicide"
+      ],
+      "field_access_options": [
+        "Counselling",
+        "Online Chat",
+        "Phone",
+        "Crisis"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/service-finder-gp",
+    "sanity_path": "articles/support/service-finder-gp",
+    "title": "Service Finder GP",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Trauma",
+        "Suicide",
+        "Stress",
+        "Self-harm"
+      ],
+      "field_access_options": [
+        "Online Chat"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free",
+        "Low cost"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/blue-knot",
+    "sanity_path": "articles/support/blue-knot-foundation",
+    "title": "Blue Knot",
+    "fields": {
+      "field_topics": [
+        "Trauma"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Counselling",
+        "Phone",
+        "Online Chat"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/mob-strong-debt-help",
+    "sanity_path": "articles/support/mob-strong-debt-help",
+    "title": "Mob Strong Debt Help",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Counselling",
+        "Phone",
+        "Online Chat"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_topics": [
+        "Financial stress"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "ACT",
+        "NSW",
+        "NT",
+        "SA",
+        "QLD",
+        "TAS",
+        "WA",
+        "VIC"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/national-debt-helpline",
+    "sanity_path": "articles/support/national-debt-helpline",
+    "title": "National Debt Helpline",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Phone",
+        "Online Chat"
+      ],
+      "field_topics": [
+        "Financial stress"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "ACT",
+        "NSW",
+        "NT",
+        "SA",
+        "QLD",
+        "TAS",
+        "WA",
+        "VIC"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/efriend",
+    "sanity_path": "articles/support/efriend",
+    "title": "eFriend",
+    "fields": {
+      "field_topics": [
+        "Loneliness"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_access_options": [
+        "Phone",
+        "Peer Support",
+        "Online Chat"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/smart-recovery-australia",
+    "sanity_path": "articles/support/smart-recovery-australia",
+    "title": "SMART Recovery Australia",
+    "fields": {
+      "field_topics": [
+        "Substance Misuse"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "In Person",
+        "Online Chat",
+        "Peer Support"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/family-drug-support",
+    "sanity_path": "articles/support/family-drug-support",
+    "title": "Family Drug Support",
+    "fields": {
+      "field_topics": [
+        "Substance Misuse"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_access_options": [
+        "Phone",
+        "Crisis"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/carer-gateway",
+    "sanity_path": "articles/support/carer-gateway",
+    "title": "Carer Gateway",
+    "fields": {
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_cost": [
+        "Free",
+        "Free"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_access_options": [
+        "In Person",
+        "Online Chat",
+        "Phone",
+        "Counselling",
+        "Crisis",
+        "Peer Support",
+        "In Person"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Suicide",
+        "Trauma",
+        "Self-harm",
+        "Substance Misuse"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT",
+        "WA"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/counselling-online-alcohol-drugs",
+    "sanity_path": "articles/support/online-alcohol--drug-counselling",
+    "title": "Counselling Online (Alcohol & Drugs)",
+    "fields": {
+      "field_topics": [
+        "Substance Misuse"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Forum",
+        "Counselling",
+        "Online Chat"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/lifeline-service-finder",
+    "sanity_path": "articles/support/lifeline-service-finder",
+    "title": "Lifeline Service Finder",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Substance Misuse",
+        "Trauma",
+        "Stress",
+        "Self-harm",
+        "Suicide"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ],
+      "field_tools_apps_type": [
+        "Website"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free",
+        "Low cost"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/national-alcohol-other-drug-hotline",
+    "sanity_path": "articles/support/national-alcohol-other-drug-hotline",
+    "title": "National Alcohol & Other Drug Hotline",
+    "fields": {
+      "field_topics": [
+        "Substance Misuse"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_access_options": [
+        "Phone",
+        "Crisis"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/kids-helpline",
+    "sanity_path": "articles/support/kids-helpline",
+    "title": "Kids Helpline",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Substance Misuse",
+        "Loneliness",
+        "Suicide",
+        "Self-harm",
+        "Trauma",
+        "Domestic and family violence"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Counselling",
+        "Phone",
+        "Crisis",
+        "Online Chat"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/lifeline-crisis-support",
+    "sanity_path": "articles/support/lifeline-crisis-support",
+    "title": "Lifeline Crisis Support",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Crisis",
+        "Phone",
+        "Online Chat",
+        "Text"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Suicide",
+        "Self-harm",
+        "Trauma",
+        "Stress"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/wayahead-anxiety-support-groups",
+    "sanity_path": "articles/support/wayahead-anxiety-support-groups",
+    "title": "WayAhead Anxiety Support Groups",
+    "fields": {
+      "field_topics": [
+        "Anxiety"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "In Person",
+        "Online Chat",
+        "Phone"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "QLD",
+        "SA",
+        "NT",
+        "NSW",
+        "ACT"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/mensline-australia",
+    "sanity_path": "articles/support/mens-line-australia",
+    "title": "MensLine Australia",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Substance Misuse",
+        "Trauma",
+        "Stress",
+        "Suicide",
+        "Self-harm",
+        "Loneliness",
+        "Domestic and family violence",
+        "Grief & loss",
+        "Relationships"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Counselling",
+        "Online Chat",
+        "Phone"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "NSW",
+        "VIC",
+        "QLD",
+        "TAS",
+        "ACT",
+        "NT",
+        "WA",
+        "SA"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/friendline",
+    "sanity_path": "articles/support/friends-for-good",
+    "title": "FriendLine",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Online Chat",
+        "Phone"
+      ],
+      "field_topics": [
+        "Loneliness"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/national-services/beyond-blue",
+    "sanity_path": "articles/support/beyond-blue-support-service",
+    "title": "Beyond Blue",
+    "fields": {
+      "field_topics": [
+        "Depression",
+        "Anxiety",
+        "Stress"
+      ],
+      "field_support_toolkit_type": [
+        "Support Service"
+      ],
+      "field_access_options": [
+        "Counselling",
+        "Online Chat",
+        "Phone"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_cost": [
+        "Free"
+      ],
+      "field_state": [
+        "National",
+        "VIC",
+        "WA",
+        "TAS",
+        "SA",
+        "QLD",
+        "NT",
+        "NSW",
+        "ACT"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/strong-foundations-a-wellbeing-guide-for-tradies",
+    "sanity_path": "articles/general/strong-foundations-a-wellbeing-guide-for-tradies",
+    "title": "Strong foundations: A wellbeing guide for tradies",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_quiz_understanding": [
+        "Understanding"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Stress"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/supporting-someone-with-a-mental-health-condition-a",
+    "sanity_path": "articles/general/supporting-someone-with-a-mental-health-condition-a-wellbeing-guide-for-carers",
+    "title": "Supporting someone with a mental health condition: A wellbeing guide for carers",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_topics": [
+        "Stress",
+        "Anxiety",
+        "Depression",
+        "Stress"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_audience": [
+        "For Others"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/reaching-out-to-lifeline-what-to-expect-and-how-to",
+    "sanity_path": "articles/general/reaching-out-to-lifeline-what-to-expect-and-how-to-feel-more-prepared",
+    "title": "Reaching out to Lifeline: What to expect and how to feel more prepared",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_topics": [
+        "Suicide",
+        "Self-harm"
+      ],
+      "field_access_options": [
+        "Crisis"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_understanding": [
+        "Understanding"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/help-with-homelessness-resources-for-wellbeing",
+    "sanity_path": "articles/general/help-with-homelessness-resources-for-wellbeing-safety-and-stability",
+    "title": "Help with homelessness: Resources for wellbeing, safety, and stability",
+    "fields": {
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ],
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/how-to-talk-to-a-child-or-young-person-youre",
+    "sanity_path": "articles/general/how-to-talk-to-a-child-or-young-person-youre-concerned-about",
+    "title": "How to talk to a child or young person you're concerned about",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_audience": [
+        "For Others"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now",
+        "Strategies to help me long term"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Stress"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/how-to-talk-to-someone-about-their-mental-health",
+    "sanity_path": "articles/general/how-to-talk-to-someone-about-their-mental-health",
+    "title": "How to talk to someone about their mental health",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_audience": [
+        "For Others"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/understanding-and-managing-addiction",
+    "sanity_path": "articles/general/understanding-and-managing-addiction",
+    "title": "Understanding and managing addiction",
+    "fields": {
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_topics": [
+        "Problem gambling",
+        "Substance Misuse"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term",
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/understanding-and-managing-anger",
+    "sanity_path": "articles/general/understanding-and-managing-anger",
+    "title": "Understanding and managing anger",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_quiz_understanding": [
+        "Understanding"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_2": [
+        "Strategies to help me long term"
+      ],
+      "field_topics": [
+        "Relationships",
+        "Domestic and family violence"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/touched-by-suicide-wellbeing-support-guide",
+    "sanity_path": "articles/general/touched-by-suicide-wellbeing-support-guide",
+    "title": "Touched by Suicide: Wellbeing support guide",
+    "fields": {
+      "field_topics": [
+        "Suicide",
+        "Trauma"
+      ],
+      "field_audience": [
+        "For Others"
+      ],
+      "field_timeframe": [
+        "Help right now",
+        "Long term help"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ],
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_quiz_understanding": [
+        "Understanding"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/2024-bondi-junction-attack-wellbeing-support-guide",
+    "sanity_path": "articles/general/2024-bondi-junction-attack-wellbeing-support-guide",
+    "title": "2024 Bondi Junction Attack: Wellbeing support guide",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Trauma",
+        "Grief & loss",
+        "Stress",
+        "Panic attacks"
+      ],
+      "field_quiz_priority": [
+        "Priority 3"
+      ],
+      "field_support_toolkit_type": [
+        "Support Guide",
+        "Support Guide"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/mental-wellness-during-the-holiday-season",
+    "sanity_path": "articles/general/mental-wellness-during-the-holiday-season",
+    "title": "Mental wellness during the holiday season",
+    "fields": {
+      "field_topics": [
+        "Loneliness",
+        "Financial stress",
+        "Depression",
+        "Anxiety"
+      ],
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/medication-addiction-a-guide-for-carers",
+    "sanity_path": "articles/general/medication-addiction-a-guide-for-carers",
+    "title": "Medication addiction: A guide for carers",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_topics": [
+        "Substance Misuse",
+        "Stress"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_quiz_priority": [
+        "Priority 2"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/how-our-devices-fuel-loneliness",
+    "sanity_path": "articles/general/how-our-devices-fuel-loneliness",
+    "title": "How our devices fuel loneliness",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_topics": [
+        "Loneliness"
+      ],
+      "field_quiz_priority": [
+        "Priority 2"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/getting-the-most-out-of-your-therapy",
+    "sanity_path": "articles/general/how-to-get-the-most-out-of-your-therapy",
+    "title": "Getting the most out of your therapy",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Substance Misuse",
+        "Trauma",
+        "Self-harm",
+        "Suicide",
+        "Grief & loss"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_access_options": [
+        "Counselling"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/what-to-expect-in-your-first-therapy-session",
+    "sanity_path": "articles/general/what-to-expect-in-your-first-therapy-session",
+    "title": "What to expect in your first therapy session",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Substance Misuse",
+        "Trauma",
+        "Self-harm",
+        "Grief & loss",
+        "Suicide"
+      ],
+      "field_access_options": [
+        "Counselling"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/finding-the-right-therapist",
+    "sanity_path": "articles/general/finding-the-right-therapist",
+    "title": "Finding the right therapist",
+    "fields": {
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_topics": [
+        "Anxiety",
+        "Trauma",
+        "Depression",
+        "Substance Misuse",
+        "Suicide",
+        "Self-harm",
+        "Grief & loss"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_access_options": [
+        "Counselling"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/contacting-lifeline",
+    "sanity_path": "articles/general/contacting-lifeline",
+    "title": "Contacting Lifeline",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Substance Misuse",
+        "Suicide",
+        "Self-harm",
+        "Trauma",
+        "Stress",
+        "Financial stress",
+        "Loneliness",
+        "Grief & loss",
+        "Psychosis"
+      ],
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_quiz_priority": [
+        "Priority 1",
+        "Priority 2"
+      ],
+      "field_quiz_question_1": [
+        "I'm feeling something else"
+      ],
+      "field_timeframe": [
+        "Help right now"
+      ],
+      "field_access_options": [
+        "Crisis"
+      ],
+      "field_quiz_question_2": [
+        "Try something to help me manage now"
+      ]
+    }
+  },
+  {
+    "drupal_path": "get-help/support-toolkit/techniques-and-guides/what-is-a-mental-health-treatment-plan",
+    "sanity_path": "articles/general/what-is-a-mental-health-treatment-plan",
+    "title": "What is a Mental Health Treatment Plan?",
+    "fields": {
+      "field_topics": [
+        "Anxiety",
+        "Depression",
+        "Substance Misuse",
+        "Trauma",
+        "Grief & loss",
+        "Suicide",
+        "Self-harm",
+        "Substance Misuse"
+      ],
+      "field_quiz_priority": [
+        "Priority 1"
+      ],
+      "field_support_toolkit_type": [
+        "Support Guide"
+      ],
+      "field_timeframe": [
+        "Long term help"
+      ],
+      "field_access_options": [
+        "Counselling"
+      ]
+    }
+  }
+]

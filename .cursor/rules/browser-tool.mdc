@@ -1,6 +1,0 @@
----
-name: browser-tool
-description: If using Cursor browser tool from wsl, use /mnt/c to view
----
-
-If you are trying to use the Cursor browser tool, and you're in a WSL2 Ubuntu repo, you'll need to use /mnt/c instead of C:/ to access the .log files.
